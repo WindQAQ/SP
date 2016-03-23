@@ -1,0 +1,12 @@
+send 1 1
+send 2 1
+finish 2 1
+send 2 2
+finish 2 2
+send 2 3
+finish 2 3
+send 2 4
+finish 2 4
+send 2 5
+send 0 1
+timeout 1 1

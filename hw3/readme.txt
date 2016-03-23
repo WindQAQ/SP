@@ -1,0 +1,3 @@
+1. Execution: Type "$ make" to generate "bidding_system", "customer" and "bidding_system_EDF". Then follow the spec like "$ bidding_system [test_data]" and "$ bidding_system_EDF [test_data]" to run two programs.
+
+2. Self-Examination: I have done all grading criteria including "Makefile", "bidding_system" for all types of customers, self-implemented "customer" and "bidding_system_EDF" for all types of customers.
